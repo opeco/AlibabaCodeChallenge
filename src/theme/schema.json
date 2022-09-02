@@ -1,0 +1,70 @@
+{
+  "data": {
+    "primary": {
+      "id": "T_001",
+      "name": "primary",
+      "colors": {
+        "body": "#ffffff",
+        "text": "#495057",
+        "pageTitle": "#495057",
+        "logo":"brightness(0) invert(1);",
+        "menu": {
+          "bg": "#4d505b",
+          "text": "#ffffff",
+          "active": "#1fa1fc",
+          "subMenuBg": "#2e3035",
+          "hoverText": "#1fa1fc",
+          "borderColor": "rgba(52,56,65, .6)"
+        },
+        "header": {
+          "bg": "#0388e5"
+        },
+        "cards": {
+          "borderColor": "#2196f3",
+          "hoverBg": "#1fa1fc",
+          "hoverText": "#ffffff"
+        },
+        "tabs": {
+          "borderBg": "#2196f3",
+          "color": "#2196f3",
+          "hoverText": "#2196f3"
+        },
+        "button": {
+          "background": "#4d505b",
+          "text": "#000000",
+          "type": {
+            "action": {
+              "bg": "#2196f3",
+              "borderColor": "#2196f3",
+              "color": "#ffffff",
+              "hoverText": "#2196f3",
+              "hoverBg": "transparent",
+              "hoverBorderColor": "#2196f3"
+            },
+            "cancel":{
+              "color":"#cccccc",
+              "borderColor": "#f7f7f7",
+              "bg":"#f7f7f7",
+              "hoverText": "#cccccc",
+              "hoverBg": "#ffffff",
+              "hoverBorderColor": "#cccccc"
+            },
+            "disable": {
+              "borderColor": "#888888",
+              "color": "#888888"
+            },
+            "setting": {
+              "bg": "#007be5",
+              "color": "#ffffff"
+            }
+          }
+        },
+        "link": {
+          "text": "teal",
+          "opacity": 1
+        }
+      },
+      "font": "Tinos"
+    }
+  }
+}
